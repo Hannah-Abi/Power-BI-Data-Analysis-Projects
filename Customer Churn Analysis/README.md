@@ -10,5 +10,5 @@ How to get an insights:
 
 3. Customer Churn Overview Dashhboard
    
-![Customer Churn Analysis](customer_churn_analysis.png)
+![Customer Churn Analysis](Customer-Churn-Analysis-Dashboard.png)
 
