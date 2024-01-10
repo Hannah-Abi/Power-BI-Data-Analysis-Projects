@@ -10,10 +10,15 @@
 
 3. **Overview of the Inventory Analysis**
 There are 3-page brand report to share with stakeholers
-  - Report 1. Hospital Profile 
+  - Report 1. Hospital Profile
+    
 ![Hospital Profile Profile](Hospital-efficiency-analysis.png)
+
   - Report 2. Cost comparison
+    
 ![Cost Comparison Report](cost-comparison.png)
+
   - Report 3. LOS Comparison
+    
 ![LOS Comparison Report](LOS-comparison.png)
 
