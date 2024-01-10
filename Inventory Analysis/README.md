@@ -8,4 +8,4 @@
 
 3. Overview of the Inventory Analysis
 
-![Inventory Analysis](Iventory-Analysi.png)
+![Inventory Analysis](Inventory-Analysis.png)
