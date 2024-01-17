@@ -3,4 +3,4 @@ The objectives of this project is to uncover insights on customer churn for a fi
 - First to understand what churn is and how much churn the organization is seeing.
 - The to figure out why customers are churning and providing recommendations on reducing churn.
 
-![Customer Churn Analysis](./Customer-Churn-Analysis/Customer-Churn-Analysis-Dashboard.png) 
+![Customer Churn Analysis](./Customer-churn-analysis/Customer-Churn-Analysis-Dashboard.png) 
