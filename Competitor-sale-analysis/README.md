@@ -6,9 +6,10 @@
   - Utilize AI visualizations
   - Develop a branded report to share with stakeholders
 - Dashboard & Report in Power BI:
-  1. Competitor Sale Analysis:
+  1. Dashboard - Competitor Sale Analysis:
      
-![Compatitor Sale Analysis](./competitor-sale-analysis-report.png)
+![Competitor Sale Analysis](./competitor-sale-analysis-report.png)
 
-  2. Advanced Insights
-![Compatitor Sale Analysis](./advanced-insights-report.png)  
+  2. Dashboard - Advanced Insights
+     
+![Competitor Sale Analysis](./advanced-insights-report.png)  
